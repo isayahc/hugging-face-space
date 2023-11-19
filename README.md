@@ -12,3 +12,22 @@ license: mit
 
 # hugging-face-space
 
+## intergrating git with huggingspace
+
+```
+git remote set-url space git@hf.co:spaces/isayahc/tutorial-space.git
+```
+
+
+```
+git add .
+```
+
+```
+git commit -S -m "Your commit message"
+```
+
+```
+git push --force space main
+```
+
