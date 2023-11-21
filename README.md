@@ -15,7 +15,7 @@ license: mit
 ## intergrating git with huggingspace
 
 ```
-git remote set-url space git@hf.co:spaces/isayahc/tutorial-space.git
+git remote add space git@hf.co:spaces/isayahc/tutorial-space.git
 ```
 
 
